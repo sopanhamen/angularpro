@@ -1,0 +1,156 @@
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*Preloader*/
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff;
+}
+
+.preloader .cssload-speeding-wheel {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  left: calc(50% - 3.5px);
+}
+
+.green {
+  /*******************
+/*Top bar
+*******************/
+  /*******************
+/*General Elements
+*******************/
+  /*******************
+/*Buttons
+*******************/
+  /*******************
+/*sidebar navigation
+*******************/
+}
+
+.green .topbar {
+  background: #00acc1;
+}
+
+.green .topbar .navbar-header {
+  background: #00acc1;
+}
+
+.green .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.green .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.green .topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: #ffffff !important;
+}
+
+.green .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .green .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.green a.link:hover, .green a.link:focus {
+  color: #00acc1 !important;
+}
+
+.green .bg-theme {
+  background-color: #00acc1 !important;
+}
+
+.green .pagination > .active > a,
+.green .pagination > .active > span,
+.green .pagination > .active > a:hover,
+.green .pagination > .active > span:hover,
+.green .pagination > .active > a:focus,
+.green .pagination > .active > span:focus {
+  background-color: #00acc1;
+  border-color: #00acc1;
+}
+
+.green .right-sidebar .rpanel-title {
+  background: #00acc1;
+}
+
+.green .stylish-table tbody tr:hover, .green .stylish-table tbody tr.active {
+  border-left: 4px solid #00acc1;
+}
+
+.green .text-themecolor {
+  color: #00acc1 !important;
+}
+
+.green .profile-tab li a.nav-link.active,
+.green .customtab li a.nav-link.active {
+  border-bottom: 2px solid #00acc1;
+  color: #00acc1;
+}
+
+.green .profile-tab li a.nav-link:hover,
+.green .customtab li a.nav-link:hover {
+  color: #00acc1;
+}
+
+.green .btn-themecolor,
+.green .btn-themecolor.disabled {
+  background: #00acc1;
+  color: #ffffff;
+  border: 1px solid #00acc1;
+}
+
+.green .btn-themecolor:hover,
+.green .btn-themecolor.disabled:hover {
+  background: #00acc1;
+  opacity: 0.7;
+  border: 1px solid #00acc1;
+}
+
+.green .btn-themecolor.active, .green .btn-themecolor:focus,
+.green .btn-themecolor.disabled.active,
+.green .btn-themecolor.disabled:focus {
+  background: #028ee1;
+}
+
+.green .label-themecolor {
+  background: #00acc1;
+}
+
+.green .sidebar-nav > ul > li.active > a {
+  color: #00acc1;
+  border-color: #00acc1;
+}
+
+.green .sidebar-nav > ul > li.active > a i {
+  color: #00acc1;
+}
+
+.green .sidebar-nav ul li a.router-link-active, .green .sidebar-nav ul li a:hover {
+  color: #00acc1;
+}
+
+.green .sidebar-nav ul li a.router-link-active i, .green .sidebar-nav ul li a:hover i {
+  color: #00acc1;
+}
+/*# sourceMappingURL=green.css.map */

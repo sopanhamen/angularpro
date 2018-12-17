@@ -1,0 +1,198 @@
+/*
+Template Name: Admin Press Admin
+File: scss
+*/
+.dark-theme {
+  /*******************
+/*Top bar
+*******************/
+  /*******************
+/*General Elements
+*******************/
+  /*******************
+/*sidebar navigation
+*******************/
+  /*******************
+/* Light colors conversion
+*******************/
+  /*******************
+/* General light colors font conversion
+*******************/
+  /*******************
+/* Dark -alt conversion
+*******************/
+  /*******************
+/* Dark  conversion
+*******************/
+  /*******************
+/* Dark border conversion
+*******************/
+  /*******************
+/* Dark -odd border conversion
+*******************/
+}
+
+.dark-theme .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.dark-theme .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.dark-theme .topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: #a6b7bf;
+}
+
+.dark-theme .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .dark-theme .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: #242a33 !important;
+}
+
+.dark-theme .topbar .navbar-header {
+  background: #272c33;
+}
+
+.dark-theme a.link:hover, .dark-theme a.link:focus {
+  color: #009efb !important;
+}
+
+.dark-theme .right-sidebar .rpanel-title {
+  background: #009efb;
+}
+
+.dark-theme .text-themecolor {
+  color: #009efb !important;
+}
+
+.dark-theme .left-sidebar,
+.dark-theme .card-no-border .left-sidebar,
+.dark-theme .card-no-border .sidebar-nav {
+  background: #272c33;
+}
+
+.dark-theme .user-profile .profile-text a {
+  color: #798699 !important;
+}
+
+.dark-theme .card-no-border .sidebar-footer {
+  background: #181c22;
+}
+
+.dark-theme .label-themecolor {
+  background: #009efb;
+}
+
+.dark-theme .sidebar-nav > ul > li.active > a {
+  color: #009efb;
+  border-color: #009efb;
+}
+
+.dark-theme .sidebar-nav > ul > li.active > a i {
+  color: #009efb;
+}
+
+.dark-theme .sidebar-nav ul li.nav-small-cap {
+  color: #798699;
+}
+
+@media (min-width: 768px) {
+  .dark-theme.mini-sidebar .sidebar-nav #sidebarnav > li > ul {
+    background: #181c22;
+  }
+  .dark-theme.mini-sidebar .sidebar-nav #sidebarnav > li:hover > a {
+    background: #181c22;
+  }
+}
+
+.dark-theme h1,
+.dark-theme h2,
+.dark-theme h3,
+.dark-theme h4,
+.dark-theme h5,
+.dark-theme h6 {
+  color: #bbbbbb;
+}
+
+.dark-theme .todo-list li .checkbox label,
+.dark-theme .page-link,
+.dark-theme .list-group-item-action,
+.dark-theme .custom-select,
+.dark-theme .custom-file-control,
+.dark-theme .form-control:focus,
+.dark-theme .btn-light,
+.dark-theme .dropdown-menu,
+.dark-theme .navbar-light .navbar-nav .nav-link,
+.dark-theme .ngx-datatable.material .datatable-body .datatable-body-row .datatable-body-cell {
+  color: #7d8b92;
+}
+
+.dark-theme .page-wrapper,
+.dark-theme .form-control,
+.dark-theme .progress,
+.dark-theme .page-item.disabled .page-link,
+.dark-theme .page-link,
+.dark-theme .btn-secondary,
+.dark-theme .btn-outline-secondary,
+.dark-theme .btn-secondary.disabled {
+  background: #3d4554;
+}
+
+.dark-theme .custom-select,
+.dark-theme .custom-file-control,
+.dark-theme .mailbox .message-center a:hover,
+.dark-theme .mega-dropdown .nav-accordion .card-header,
+.dark-theme .table-striped tbody tr:nth-of-type(odd),
+.dark-theme .ngx-datatable.material {
+  background-color: #3d4554;
+}
+
+.dark-theme .card,
+.dark-theme .list-group-item,
+.dark-theme .bg-white,
+.dark-theme .nav-tabs .nav-link.active,
+.dark-theme .btn-outline-primary {
+  background: #272c33;
+}
+
+.dark-theme .form-control,
+.dark-theme .table td,
+.dark-theme .table th,
+.dark-theme .page-item.disabled .page-link,
+.dark-theme .page-link,
+.dark-theme .btn-secondary,
+.dark-theme .btn-secondary.disabled,
+.dark-theme .btn-outline-secondary,
+.dark-theme .cal-month-view .cal-day-cell:not(:last-child),
+.dark-theme .cal-month-view .cal-days .cal-cell-row,
+.dark-theme .cal-month-view .cal-days,
+.dark-theme .nav-tabs .nav-link.active,
+.dark-theme .nav-tabs,
+.dark-theme .dragndrop > div,
+.dark-theme .custom-select,
+.dark-theme .custom-file-control,
+.dark-theme .input-group-addon,
+.dark-theme .table-bordered {
+  border-color: rgba(120, 130, 140, 0.13);
+}
+
+.dark-theme .card-default .card-header,
+.dark-theme .footer,
+.dark-theme .bg-light,
+.dark-theme .table-hover tbody tr:hover,
+.dark-theme .right-sidebar,
+.dark-theme .cal-month-view .cal-cell-row:hover,
+.dark-theme .cal-month-view .cal-cell-row .cal-cell:hover,
+.dark-theme .cal-month-view .cal-cell.cal-has-events.cal-open,
+.dark-theme .cal-month-view .cal-open-day-events,
+.dark-theme .cal-day-view .cal-hour:nth-child(odd),
+.dark-theme .taskboard .taskboard-task,
+.dark-theme .input-group-addon,
+.dark-theme .dropdown-menu {
+  background: #1f2227 !important;
+}
+
+.dark-theme .page-titles {
+  background: transparent;
+}
+/*# sourceMappingURL=dark.css.map */

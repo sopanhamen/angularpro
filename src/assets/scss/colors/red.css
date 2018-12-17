@@ -1,0 +1,156 @@
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*Preloader*/
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff;
+}
+
+.preloader .cssload-speeding-wheel {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  left: calc(50% - 3.5px);
+}
+
+.red {
+  /*******************
+/*Top bar
+*******************/
+  /*******************
+/*General Elements
+*******************/
+  /*******************
+/*Buttons
+*******************/
+  /*******************
+/*sidebar navigation
+*******************/
+}
+
+.red .topbar {
+  background: #f62d51;
+}
+
+.red .topbar .navbar-header {
+  background: #f62d51;
+}
+
+.red .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.red .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.red .topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: #ffffff !important;
+}
+
+.red .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .red .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.red a.link:hover, .red a.link:focus {
+  color: #f62d51 !important;
+}
+
+.red .bg-theme {
+  background-color: #f62d51 !important;
+}
+
+.red .pagination > .active > a,
+.red .pagination > .active > span,
+.red .pagination > .active > a:hover,
+.red .pagination > .active > span:hover,
+.red .pagination > .active > a:focus,
+.red .pagination > .active > span:focus {
+  background-color: #f62d51;
+  border-color: #f62d51;
+}
+
+.red .right-sidebar .rpanel-title {
+  background: #f62d51;
+}
+
+.red .stylish-table tbody tr:hover, .red .stylish-table tbody tr.active {
+  border-left: 4px solid #f62d51;
+}
+
+.red .text-themecolor {
+  color: #f62d51 !important;
+}
+
+.red .profile-tab li a.nav-link.active,
+.red .customtab li a.nav-link.active {
+  border-bottom: 2px solid #f62d51;
+  color: #f62d51;
+}
+
+.red .profile-tab li a.nav-link:hover,
+.red .customtab li a.nav-link:hover {
+  color: #f62d51;
+}
+
+.red .btn-themecolor,
+.red .btn-themecolor.disabled {
+  background: #f62d51;
+  color: #ffffff;
+  border: 1px solid #f62d51;
+}
+
+.red .btn-themecolor:hover,
+.red .btn-themecolor.disabled:hover {
+  background: #f62d51;
+  opacity: 0.7;
+  border: 1px solid #f62d51;
+}
+
+.red .btn-themecolor.active, .red .btn-themecolor:focus,
+.red .btn-themecolor.disabled.active,
+.red .btn-themecolor.disabled:focus {
+  background: #028ee1;
+}
+
+.red .label-themecolor {
+  background: #f62d51;
+}
+
+.red .sidebar-nav > ul > li.active > a {
+  color: #f62d51;
+  border-color: #f62d51;
+}
+
+.red .sidebar-nav > ul > li.active > a i {
+  color: #f62d51;
+}
+
+.red .sidebar-nav ul li a.router-link-active, .red .sidebar-nav ul li a:hover {
+  color: #f62d51;
+}
+
+.red .sidebar-nav ul li a.router-link-active i, .red .sidebar-nav ul li a:hover i {
+  color: #f62d51;
+}
+/*# sourceMappingURL=red.css.map */

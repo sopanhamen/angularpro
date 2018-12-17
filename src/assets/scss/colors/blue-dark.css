@@ -1,0 +1,163 @@
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*Preloader*/
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff;
+}
+
+.preloader .cssload-speeding-wheel {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  left: calc(50% - 3.5px);
+}
+
+.bluedark {
+  /*******************
+/*Top bar
+*******************/
+  /*******************
+/*General Elements
+*******************/
+  /*******************
+/*Buttons
+*******************/
+  /*******************
+/*sidebar navigation
+*******************/
+}
+
+.bluedark .topbar {
+  background: #1e88e5;
+}
+
+.bluedark .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.bluedark .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.bluedark .topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.bluedark .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .bluedark .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: #ffffff !important;
+}
+
+.bluedark .topbar .navbar-header {
+  background: #1e88e5;
+}
+
+.bluedark .logo-center .topbar .navbar-header {
+  background: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.bluedark .logo-center .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.bluedark .logo-center .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.bluedark a.link:hover, .bluedark a.link:focus {
+  color: #1e88e5 !important;
+}
+
+.bluedark .right-sidebar .rpanel-title {
+  background: #1e88e5;
+}
+
+.bluedark .text-themecolor {
+  color: #1e88e5 !important;
+}
+
+.bluedark .btn-themecolor,
+.bluedark .btn-themecolor.disabled {
+  background: #1e88e5;
+  color: #ffffff;
+  border: 1px solid #1e88e5;
+}
+
+.bluedark .btn-themecolor:hover,
+.bluedark .btn-themecolor.disabled:hover {
+  background: #1e88e5;
+  opacity: 0.7;
+  border: 1px solid #1e88e5;
+}
+
+.bluedark .btn-themecolor.active, .bluedark .btn-themecolor:focus,
+.bluedark .btn-themecolor.disabled.active,
+.bluedark .btn-themecolor.disabled:focus {
+  background: #028ee1;
+}
+
+.bluedark .left-sidebar,
+.bluedark .card-no-border .left-sidebar,
+.bluedark .card-no-border .sidebar-nav {
+  background: #272c33;
+}
+
+.bluedark .user-profile .profile-text a {
+  color: #798699 !important;
+}
+
+.bluedark .card-no-border .sidebar-footer {
+  background: #181c22;
+}
+
+.bluedark .label-themecolor {
+  background: #1e88e5;
+}
+
+.bluedark .sidebar-nav ul li a.router-link-active, .bluedark .sidebar-nav ul li a:hover {
+  color: #1e88e5;
+}
+
+.bluedark .sidebar-nav ul li a.router-link-active i, .bluedark .sidebar-nav ul li a:hover i {
+  color: #1e88e5;
+}
+
+.bluedark .sidebar-nav ul li.nav-small-cap {
+  color: #798699;
+}
+
+@media (min-width: 768px) {
+  .bluedark.horizontal-nav .sidebar-nav #sidebarnav > li > ul {
+    background: #181c22;
+  }
+  .bluedark.horizontal-nav .sidebar-nav #sidebarnav > li:hover > a {
+    background: #181c22;
+  }
+  .bluedark.mini-sidebar .sidebar-nav #sidebarnav > li > ul, .bluedark.mini-sidebar .sidebar-nav #sidebarnav > li:hover > a {
+    background: #181c22;
+  }
+}
+/*# sourceMappingURL=blue-dark.css.map */

@@ -1,0 +1,156 @@
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*Preloader*/
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff;
+}
+
+.preloader .cssload-speeding-wheel {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  left: calc(50% - 3.5px);
+}
+
+.purple {
+  /*******************
+/*Top bar
+*******************/
+  /*******************
+/*General Elements
+*******************/
+  /*******************
+/*Buttons
+*******************/
+  /*******************
+/*sidebar navigation
+*******************/
+}
+
+.purple .topbar {
+  background: #7460ee;
+}
+
+.purple .topbar .navbar-header {
+  background: #7460ee;
+}
+
+.purple .topbar .top-navbar .navbar-header .navbar-brand .dark-logo {
+  display: none;
+}
+
+.purple .topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.purple .topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: #ffffff !important;
+}
+
+.purple .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .purple .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.purple a.link:hover, .purple a.link:focus {
+  color: #7460ee !important;
+}
+
+.purple .bg-theme {
+  background-color: #7460ee !important;
+}
+
+.purple .pagination > .active > a,
+.purple .pagination > .active > span,
+.purple .pagination > .active > a:hover,
+.purple .pagination > .active > span:hover,
+.purple .pagination > .active > a:focus,
+.purple .pagination > .active > span:focus {
+  background-color: #7460ee;
+  border-color: #7460ee;
+}
+
+.purple .right-sidebar .rpanel-title {
+  background: #7460ee;
+}
+
+.purple .stylish-table tbody tr:hover, .purple .stylish-table tbody tr.active {
+  border-left: 4px solid #7460ee;
+}
+
+.purple .text-themecolor {
+  color: #7460ee !important;
+}
+
+.purple .profile-tab li a.nav-link.active,
+.purple .customtab li a.nav-link.active {
+  border-bottom: 2px solid #7460ee;
+  color: #7460ee;
+}
+
+.purple .profile-tab li a.nav-link:hover,
+.purple .customtab li a.nav-link:hover {
+  color: #7460ee;
+}
+
+.purple .btn-themecolor,
+.purple .btn-themecolor.disabled {
+  background: #7460ee;
+  color: #ffffff;
+  border: 1px solid #7460ee;
+}
+
+.purple .btn-themecolor:hover,
+.purple .btn-themecolor.disabled:hover {
+  background: #7460ee;
+  opacity: 0.7;
+  border: 1px solid #7460ee;
+}
+
+.purple .btn-themecolor.active, .purple .btn-themecolor:focus,
+.purple .btn-themecolor.disabled.active,
+.purple .btn-themecolor.disabled:focus {
+  background: #028ee1;
+}
+
+.purple .label-themecolor {
+  background: #7460ee;
+}
+
+.purple .sidebar-nav > ul > li.active > a {
+  color: #7460ee;
+  border-color: #7460ee;
+}
+
+.purple .sidebar-nav > ul > li.active > a i {
+  color: #7460ee;
+}
+
+.purple .sidebar-nav ul li a.router-link-active, .purple .sidebar-nav ul li a:hover {
+  color: #7460ee;
+}
+
+.purple .sidebar-nav ul li a.router-link-active i, .purple .sidebar-nav ul li a:hover i {
+  color: #7460ee;
+}
+/*# sourceMappingURL=purple.css.map */

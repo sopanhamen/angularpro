@@ -1,0 +1,24 @@
+.nested-menu .list-group-item {
+  cursor: pointer;
+}
+
+.nested-menu .nested {
+  list-style-type: none;
+}
+
+.nested-menu ul.submenu {
+  display: none;
+  height: 0;
+}
+
+.nested-menu .expand ul.submenu {
+  display: block;
+  list-style-type: none;
+  height: auto;
+}
+
+.nested-menu .expand ul.submenu li a {
+  padding: 10px;
+  display: block;
+}
+/*# sourceMappingURL=sidebar.component.css.map */
